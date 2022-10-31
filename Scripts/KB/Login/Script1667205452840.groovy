@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://apptest.claimq.id/prweb/tHGV_g6FQZMSYakWUervaQ%28%28*/!STANDARD')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_User name_UserIdentifier'), 'testingestimator@asm2')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pega Platform/input_Password_Password'), 'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_Password_Password'), '123456')
 
 WebUI.click(findTestObject('Object Repository/Page_Pega Platform/button_Log in'))
 

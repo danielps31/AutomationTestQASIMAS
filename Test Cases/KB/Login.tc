@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login Estimator</name>
+   <name>Login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a57ec2f7-c813-44b6-9666-e1b9f0dc3c45</testCaseGuid>
