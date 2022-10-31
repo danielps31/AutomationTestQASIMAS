@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://apptest.claimq.id/prweb/tHGV_g6FQZMSYakWUervaQ%28%2
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_User name_UserIdentifier'), 'testingestimator@asm2')
+WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_User name_UserIdentifier'), 'testingsurveyor@asm2')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_Password_Password'), '123456')
 
