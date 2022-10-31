@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://apptest.claimq.id/prweb/tHGV_g6FQZMSYakWUervaQ%28%28*/!STANDARD')
-
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_User name_UserIdentifier'), 'testingsurveyor@asm2')
-
-WebUI.setText(findTestObject('Object Repository/Page_Pega Platform/input_Password_Password'), '123456')
-
-WebUI.click(findTestObject('Object Repository/Page_Pega Platform/button_Log in'))
-
-WebUI.closeBrowser()
-

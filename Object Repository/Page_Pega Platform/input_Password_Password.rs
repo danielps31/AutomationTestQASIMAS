@@ -22,7 +22,11 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
+<<<<<<< HEAD
       <webElementGuid>adce942a-d87a-4ef0-87cf-b9401d190314</webElementGuid>
+=======
+      <webElementGuid>73a59c12-666e-49fd-9ec2-7bf3e42e1b04</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,6 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txtPassword</value>
+<<<<<<< HEAD
       <webElementGuid>b49dc2ad-8b7d-4dc6-8199-29387fdf1c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -79,6 +84,57 @@
       <type>Main</type>
       <value>id(&quot;txtPassword&quot;)</value>
       <webElementGuid>761cb6e5-c818-4291-bac4-564f97712c9c</webElementGuid>
+=======
+      <webElementGuid>009f6eea-7c13-4acf-a2a4-e01c8077e885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputBox</value>
+      <webElementGuid>ff19c5d4-047f-4690-a154-7f1a3145bf9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>6eba1189-d8a3-42c6-a48e-f459dec7c08f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>5b482833-db02-4812-ba3b-c4a18bfb3f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>a4bf4a00-dfe4-4a83-9a1b-be8627425141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>70b741c7-f213-44ee-8ee1-3b99d503d506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txtPassword&quot;)</value>
+      <webElementGuid>d1899414-88fe-43e9-b9ec-739793d7a2c7</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -406,7 +462,11 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txtPassword']</value>
+<<<<<<< HEAD
       <webElementGuid>59028cd7-6c41-4679-9521-d054031a9830</webElementGuid>
+=======
+      <webElementGuid>04e11ddd-37f9-4643-be98-f870539c1951</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -414,7 +474,11 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='credentialsForm']/div[2]/input</value>
+<<<<<<< HEAD
       <webElementGuid>e3aa9a2b-5707-4608-b349-77c0f4c7b7e1</webElementGuid>
+=======
+      <webElementGuid>01b99c5e-ecb4-45ea-8686-67ecc54dd558</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -422,7 +486,11 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
+<<<<<<< HEAD
       <webElementGuid>0ac7f45b-859d-4eb0-9056-21c76c920813</webElementGuid>
+=======
+      <webElementGuid>3a16d9e0-71b0-495a-8c96-4e1c43f47381</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -430,6 +498,10 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'txtPassword' and @type = 'password' and @name = 'Password' and @placeholder = 'Password']</value>
+<<<<<<< HEAD
       <webElementGuid>dd98a62f-537d-40bd-b5da-c97e79e001a1</webElementGuid>
+=======
+      <webElementGuid>caadf6a0-386c-4ec9-b509-30ed9781c761</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
 </WebElementEntity>

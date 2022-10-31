@@ -22,7 +22,11 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+<<<<<<< HEAD
       <webElementGuid>0cf9712b-8bbd-487b-aa7c-94ba3ef01015</webElementGuid>
+=======
+      <webElementGuid>1e46bd06-2ff0-4bc1-bc5b-c5e4a77ef76f</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,6 +34,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sub</value>
+<<<<<<< HEAD
       <webElementGuid>b9b7546a-f9c2-42b6-ac25-0cca25272629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -81,6 +86,59 @@
       <type>Main</type>
       <value>id(&quot;sub&quot;)</value>
       <webElementGuid>94cd5a4c-490a-4680-a299-22cedd2aef08</webElementGuid>
+=======
+      <webElementGuid>b1e6db6c-bb6c-4869-8ca9-fd1d8d766248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>loginButton</value>
+      <webElementGuid>80c6b408-d8ce-4264-a5d6-e3e302f20cee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>pyActivity=Code-Security.Login</value>
+      <webElementGuid>2d0086e8-523c-4ba5-8970-e22011788f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>648772e7-2128-46ae-b09a-9aa27604f38b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>removeErrorMessage();</value>
+      <webElementGuid>a4e84d10-47c7-4c3d-8151-2d3b25dc25b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Log in
+                                        </value>
+      <webElementGuid>b8924742-acb4-4fac-a3ef-d687735a88f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sub&quot;)</value>
+      <webElementGuid>6eb66912-810e-42fb-b607-ef9dc4fae1dc</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -352,7 +410,11 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='sub']</value>
+<<<<<<< HEAD
       <webElementGuid>4017fdf3-2f1b-470a-b911-0ada520f0c93</webElementGuid>
+=======
+      <webElementGuid>a55c5d8e-4925-4709-bc3f-2f36313092bd</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -360,7 +422,11 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='submit_row']/button</value>
+<<<<<<< HEAD
       <webElementGuid>7e471785-c53f-4bba-98e3-db07fc024ea5</webElementGuid>
+=======
+      <webElementGuid>306965c1-76ae-4274-9f14-c9cdfbf1cc2d</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -368,7 +434,11 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::button[1]</value>
+<<<<<<< HEAD
       <webElementGuid>2bb46fcb-0a06-4356-98e0-0c1364de6afe</webElementGuid>
+=======
+      <webElementGuid>6df76e85-7b92-40b2-8d79-d8a9b0ed3a99</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -376,7 +446,11 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[2]/following::button[1]</value>
+<<<<<<< HEAD
       <webElementGuid>b25338c9-8de0-4d13-8040-37058a8e98ca</webElementGuid>
+=======
+      <webElementGuid>e5518f7f-4e57-45f9-b6da-4fcade42fc80</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -384,7 +458,11 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/preceding::button[1]</value>
+<<<<<<< HEAD
       <webElementGuid>7af56274-bd40-4474-98d6-b2cd75fa2a20</webElementGuid>
+=======
+      <webElementGuid>d3118327-a219-4992-97ce-8fd1b6de1a3e</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -392,7 +470,11 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
+<<<<<<< HEAD
       <webElementGuid>cf159615-ff3a-44df-9a36-0acaa0507200</webElementGuid>
+=======
+      <webElementGuid>de990c34-142c-4f1d-9dc6-1fdb084bd925</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -404,6 +486,10 @@
                                         ' or . = '
                                             Log in
                                         ')]</value>
+<<<<<<< HEAD
       <webElementGuid>176741e2-316b-4fc9-b067-e314d74d0b5a</webElementGuid>
+=======
+      <webElementGuid>228d5e62-4d57-4477-88d4-fc0a7768972e</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
    </webElementXpaths>
 </WebElementEntity>

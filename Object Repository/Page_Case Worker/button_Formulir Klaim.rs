@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Formulir Klaim</name>
+   <tag></tag>
+   <elementGuidId>e5ebe4b8-9b30-457f-a29e-92ceed372735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;ShowFormClaimData_pyDisplayHarness_126&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='ShowFormClaimData_pyDisplayHarness_126']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49a7d834-96ba-401d-8a3d-d14a34f26b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>20201222143831032389821</value>
+      <webElementGuid>59fb0482-1424-475a-9cf1-90e9f29aede6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;pyDisplayHarness&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9NzkyYWJiZDU1OWY1Y2ZkODMzNTIwZGJjOTg2MTY2NmVlMjBkNjJmNjA1NTBjMDY2ODhmYzM5NjRjNjQ1NzI2YzIyNGQ3ZWFhMmJmZmUzNjEwY2ZiMDk2MGIzMWQ5NmZhNWMwYWVhOGEzYmI1MzdjM2E1OTcxODc1YjQzOTdlZTA3ZmQwM2QzMGRiNzIzMGI1YzVmYjdlNzQ3Njc4ZWRhMzhlNGYxNjRjMDUwMTI2MTIyNjEzOWIyZmE0YWVmOGNjMTkxODkwMDZiYWE0ZDFhMjZmOWQ1OTViNTZiZDhkMjI1NTkxYjE1ZTNmZjQ5MmJiNmI0ZGVkZjM1ZWEyYzc5Ng%3D%3D*&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9OWYxNDRkN2MzNzczNjdhZjNiNWFhNTI5NDczMTBiZTQ2YzgyZTdhYTIwMzgwMWEzZjE0NTU1YzcyNGUzY2I1NzgzOGE1MGYzOWY3ODljOThmYzhiYzg5MTgwMWRkODkwMGRmMWIyOTZmOGRiZWM4YjFiY2IzZDdjMzk5OGZiYjAxMDQyYjliMjhlNjgxOTI4MTIyMTg3MWQ4MTQ1YzZhZDQzZTUzOTA0MGFhODljODg0NzE2ZDgyMjY3N2JiYjIz*&quot;,{},{}],&quot;pyDisplayHarness&quot;]],[&quot;setMobileTransition&quot;,[&quot;pega.mobile.transitions.NONE&quot;]],[&quot;openAssignment&quot;,[&quot;#~pyDisplayHarness.IDPEGA~#&quot;,&quot;f902556a-7bb3-4699-82dd-46f26a07daf0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;#~pyDisplayHarness.pyIsOfflineEnabled~#&quot;,{&quot;target&quot;:&quot;primary&quot;,&quot;pyReloadAlways&quot;:&quot;false&quot;}]]]</value>
+      <webElementGuid>721cb885-54d5-476d-ac54-b79c4f68fd3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ShowFormClaimData_pyDisplayHarness_126</value>
+      <webElementGuid>f5e048ad-f971-447d-9395-68fffd18b741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Strong pzhc pzbutton</value>
+      <webElementGuid>4cb654ac-ec64-4b30-9f4c-422db44ee5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a40aacbe-0638-4d59-a1e1-3dda023f9ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Formulir Klaim</value>
+      <webElementGuid>86823b21-0306-4588-b756-4b4aa00f1d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;l2&quot;)/div[@class=&quot;screen-layout-region-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default margin-b-1x&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-top-spacing remove-left-spacing remove-bottom-spacing remove-right-spacing flex flex-row&quot;]/div[1]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing flex flex-row dataValueWrite&quot;]/span[1]/button[@class=&quot;Strong pzhc pzbutton&quot;]</value>
+      <webElementGuid>bc171264-44a7-42d0-8cd6-4be355a3eab3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='ShowFormClaimData_pyDisplayHarness_126']</value>
+      <webElementGuid>aded9c64-c33a-44ac-8459-fc6ccb328390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='RULE_KEY']/div/div/div/div/div/span/button)[2]</value>
+      <webElementGuid>85f29eed-5711-4998-ad0a-edc1ba0d8115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[1]/following::button[1]</value>
+      <webElementGuid>ccedaea6-0a41-4662-8382-e3518948538d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/following::button[1]</value>
+      <webElementGuid>fa10fb47-eb72-4658-a952-7bf5bae4334f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Data'])[1]/preceding::button[1]</value>
+      <webElementGuid>30215211-82de-4b28-84c2-7350c7301171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[2]</value>
+      <webElementGuid>cb3a585c-f108-4d0c-81e1-38ef84bb4f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ Formulir Klaim']/parent::*</value>
+      <webElementGuid>bcd813a2-c20a-4811-b372-3d236b62a7b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span/div/div/div/div/div/div/span/button</value>
+      <webElementGuid>2a76ab6d-bc57-4c3a-aeee-94f206b02fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'ShowFormClaimData_pyDisplayHarness_126' and @type = 'button' and (text() = '+ Formulir Klaim' or . = '+ Formulir Klaim')]</value>
+      <webElementGuid>4dc5437b-0215-474f-9e12-371e30d827a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
