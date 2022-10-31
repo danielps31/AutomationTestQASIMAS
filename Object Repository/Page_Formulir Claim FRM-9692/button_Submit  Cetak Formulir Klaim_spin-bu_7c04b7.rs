@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Submit  Cetak Formulir Klaim_spin-bu_7c04b7</name>
    <tag></tag>
-   <elementGuidId>35f08f4b-00c0-4046-870a-532853554d90</elementGuidId>
+   <elementGuidId>09221b3f-9869-4091-bb16-50211ea81788</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>64dad034-ce56-4c28-ab08-91a04a4eb19f</webElementGuid>
+      <webElementGuid>634ddaf2-1b2f-4c23-a601-3280c0eae902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>spin-button spin-down</value>
-      <webElementGuid>e7032aaa-f03f-41b9-bed4-783a28c3c4cc</webElementGuid>
+      <webElementGuid>0f32cadd-daea-470a-931d-1e5ed8bb473a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0f95f9c5-02fa-4e5d-9d6c-b28d965c9992</webElementGuid>
+      <webElementGuid>fad3c3d5-31e1-4f78-9469-db8f668aa295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;monthSpinner&quot;)/span[@class=&quot;spin-vertical&quot;]/button[@class=&quot;spin-button spin-down&quot;]</value>
-      <webElementGuid>ad0ebfd8-4969-421d-9e4c-e6f07ce6fec2</webElementGuid>
+      <webElementGuid>e98c20d4-8cb6-4930-86e0-fdd7d7273862</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[11]</value>
-      <webElementGuid>d718718f-c5c0-435c-a879-71826a153abe</webElementGuid>
+      <webElementGuid>1cd2d9da-fcfb-4530-b3e5-72df661d7091</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='monthSpinner']/span/button[2]</value>
-      <webElementGuid>969e0908-e01c-43d4-a963-6cb6f7245e52</webElementGuid>
+      <webElementGuid>c157ab0a-930b-4b2b-8c97-00c4322b17c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit &amp; Cetak Formulir Klaim'])[2]/following::button[3]</value>
-      <webElementGuid>ace024c0-6792-4fa1-b201-0b88a93033a5</webElementGuid>
+      <webElementGuid>50cd132d-c8a0-4cf4-8a87-0ca90055af42</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit &amp; Cetak Formulir Klaim'])[1]/following::button[4]</value>
-      <webElementGuid>4b439130-0fdb-4454-8368-b89fc1d3d6e0</webElementGuid>
+      <webElementGuid>aaba79e3-2826-4a98-af23-e8d0a0a9c7f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sen'])[1]/preceding::button[3]</value>
-      <webElementGuid>075e211e-a0b9-47f3-9a00-48dae7833244</webElementGuid>
+      <webElementGuid>37a3e637-763f-429e-a390-3d52e7708e63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sel'])[1]/preceding::button[3]</value>
-      <webElementGuid>bb841434-ed64-4b5c-b214-3a04288965b5</webElementGuid>
+      <webElementGuid>eb390fc0-09d8-4ce1-b229-e86879b6eb3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/button[2]</value>
-      <webElementGuid>224afbc5-9e31-4996-b40a-17cc6f6a03fa</webElementGuid>
+      <webElementGuid>0abb8feb-c1fc-40f4-a4a2-052f5dc0e455</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>0669e12b-7b71-40bd-b2f9-ea5358d1ecf7</webElementGuid>
+      <webElementGuid>23ece4d3-c28d-416f-8416-dd267ef0e11c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

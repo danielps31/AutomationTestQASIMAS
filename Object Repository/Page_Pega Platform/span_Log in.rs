@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Log in</name>
    <tag></tag>
-   <elementGuidId>4aa2ec93-c5a7-473f-a931-9e5487ae0cfe</elementGuidId>
+   <elementGuidId>9b46d744-28b2-4b88-a0a1-6bc3c3446409</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3907904a-f6a2-4390-becf-1105df1d811e</webElementGuid>
+      <webElementGuid>0ebc9b6e-8718-4932-8da9-7b12f1bc3109</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loginButtonText</value>
-      <webElementGuid>11c5e1f0-da63-4306-b941-e35d9fd5d723</webElementGuid>
+      <webElementGuid>0cead142-401e-4014-b14f-9e91b8b3449f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>2ba5ac72-913f-4dda-aea9-dc4a46759d83</webElementGuid>
+      <webElementGuid>e55e2deb-292c-4d72-804f-756b09310250</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,39 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub&quot;)/span[@class=&quot;loginButtonText&quot;]</value>
-      <webElementGuid>b25df10c-53d3-4607-9236-ced24a69ae83</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>span</value>
-      <webElementGuid>bfa0ef4f-7267-4ce7-9b90-c45f91164a1d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButtonText</value>
-      <webElementGuid>8c4d5836-e3b8-4ba9-adff-eda051e82dd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Log in</value>
-      <webElementGuid>a9aeb6e1-c2a5-41e9-ba8c-f63d8248a664</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)/span[@class=&quot;loginButtonText&quot;]</value>
-      <webElementGuid>948cb795-1a4e-4b9e-9ef7-72a99c7a0b4f</webElementGuid>
+      <webElementGuid>1714e857-ed36-4f12-acfd-449980079b63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='sub']/span</value>
-      <webElementGuid>339c7006-bed8-41d5-9390-e64d29b020e3</webElementGuid>
+      <webElementGuid>aaa727e8-6a22-406a-9d43-892d82db46b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::span[1]</value>
-      <webElementGuid>231d0de7-43c9-4e87-935b-e1b4e124dc7e</webElementGuid>
+      <webElementGuid>da142e6d-422f-48e7-a7e1-3d3aeadb4521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[2]/following::span[2]</value>
-      <webElementGuid>57c99fdc-c1d4-4ce2-86a4-c368a821f7d5</webElementGuid>
+      <webElementGuid>84bc9fc6-f34d-44a5-9d07-154ed12bfc83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/preceding::span[1]</value>
-      <webElementGuid>95b49303-1de7-4ed3-b56f-fa080d9d00a3</webElementGuid>
+      <webElementGuid>d3d03bec-0ba8-4216-a54c-1d5786cbfa6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/preceding::span[2]</value>
-      <webElementGuid>198c925a-1f44-43ea-b278-fa6f37af8dac</webElementGuid>
+      <webElementGuid>4f4d1064-8028-4d7e-9c64-e8585ee7304b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>2be9a201-305a-45cd-89d4-b46fc6eb75b1</webElementGuid>
+      <webElementGuid>3ea7488c-800a-47c0-abbc-7216b796c22a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>b61fb76c-77ff-450b-8e5c-9edf5db08f27</webElementGuid>
+      <webElementGuid>60bcc2fb-d415-4406-94ec-2931180df070</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>4c52b3fd-e405-4d87-9fb7-73df514c0c9a</webElementGuid>
+      <webElementGuid>819e05f2-6bbe-413e-8229-4a5feee3947c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit  Cetak Formulir Klaim</name>
+   <tag></tag>
+   <elementGuidId>4934cbdd-8e29-4c19-827f-b465f2cfd664</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;FormClaim_Sec_pyWorkPage_89&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='FormClaim_Sec_pyWorkPage_89']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>697546fe-73ae-4cfe-a29f-3cbb2e6d8014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>20210909085153096544588</value>
+      <webElementGuid>98cf8a07-f937-40d6-a0f8-4776c237847c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;CetakFormClm_Act&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODE4Y2RhNjVlYmQ2MzJlN2VkN2Y5N2RkNTFhMTFkZmIyZGQyNjc2YzU5OTFkNzdlOWU4YzFhMWJjMmUwZTRlODNlYmE3ZDBkMDEzMzA3NTczYWMyNDIwMzllODQ1ZGMzNGY%3D*&quot;,{},{}],&quot;pyWorkPage&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;GetPdfForm_Act&quot;, &quot;&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODE4Y2RhNjVlYmQ2MzJlN2VkN2Y5N2RkNTFhMTFkZmIyZGZhMzZiY2ZkZmMxMTQzNTM3ZmVhNjU1MmJkNDVkZDdiMjM2YjJiYTNlOWRlNTA1ZGE2YjIxNjk5YmY4MWM1ZTJjMDc3YmU2YmMxOWJmOTBiMWQxYjE1ODg0MmI4ZmYzOGNhYWUxYjJkY2FlYjczYTJiZTRjZWMyNmFjNWIyMTFkMGMyNDcyMTFiZmRjNmE1NzE2MmFmZjM3YmZjZDYyMmI2MWQyMzJhNjc1MDkyYjZmOTI1ZDNmNTg1ZmU1ODFkNA%3D%3D*&quot;,{&quot;action&quot;:&quot;btnsubmit&quot;},{}],&quot;pyWorkPage&quot;]],[&quot;openUrlInWindow&quot;, [&quot;#~MyPage.pyNote~#&quot;, &quot;Form Klaim&quot;, &quot;location=1,menubar=1,toolbar=1,status=1,resizable=1,location=1,scrollbars=1&quot;, &quot;false&quot;,&quot;:event&quot;,&quot;true&quot;, &quot;false&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;FinishPelaporan_Act&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODE4Y2RhNjVlYmQ2MzJlN2VkN2Y5N2RkNTFhMTFkZmIyZDYxNTBjZjMxOTAxMDI1MjFkZjljN2Q5NjUxMzczNGRmNjJhZWRmMzUwZGY0YjE1ZjRjOGY3MGE0MjhiOTMxZjQ%3D*&quot;,{},{}],&quot;pyWorkPage&quot;]]]</value>
+      <webElementGuid>69cfd63a-a51a-42fa-8078-65e871d2b854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FormClaim_Sec_pyWorkPage_89</value>
+      <webElementGuid>954053cf-8b6b-47b1-9cfb-6c0affcb6d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Strong pzhc pzbutton</value>
+      <webElementGuid>a27eba20-aa29-4497-9c79-05d26bd1bc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c190efde-215b-42d0-adb7-b7763d3faa61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit &amp; Cetak Formulir Klaim</value>
+      <webElementGuid>70a20067-e467-4228-95ac-0ef489c38d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyFlowActionHTML&quot;)/span[1]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline&quot;]/div[@class=&quot;content-item content-field item-1 flex flex-row dataValueWrite&quot;]/span[1]/button[@class=&quot;Strong pzhc pzbutton&quot;]</value>
+      <webElementGuid>99722ca3-7f22-49a5-8c3e-60b954fcfc42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='FormClaim_Sec_pyWorkPage_89']</value>
+      <webElementGuid>dcdfcc89-b624-4eac-9b36-cec887f84224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RULE_KEY']/div[6]/div/span/button</value>
+      <webElementGuid>264eb268-5641-414c-9703-2240085a7980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surveyor'])[1]/following::button[1]</value>
+      <webElementGuid>498cbef2-eaea-43c1-a3bc-f6b3b354b4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Referensi Klaim'])[1]/following::button[1]</value>
+      <webElementGuid>4ee6b5ff-8354-448e-ae8a-5e3407dc9472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit &amp; Cetak Formulir Klaim'])[2]/preceding::button[1]</value>
+      <webElementGuid>1e3760c1-8e3a-46ba-9444-58d10076e4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JnsKlaim'])[1]/preceding::button[2]</value>
+      <webElementGuid>8e3d6ba1-8324-439a-9bd3-30167e9a81d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit &amp; Cetak Formulir Klaim']/parent::*</value>
+      <webElementGuid>4621a301-efc3-4833-b2a1-2cfd9d52c3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span/button</value>
+      <webElementGuid>c6345a64-0b35-4f7b-b04e-5e56d17dd69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'FormClaim_Sec_pyWorkPage_89' and @type = 'button' and (text() = 'Submit &amp; Cetak Formulir Klaim' or . = 'Submit &amp; Cetak Formulir Klaim')]</value>
+      <webElementGuid>9a08d0af-1aac-454c-af69-bb788458d55c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

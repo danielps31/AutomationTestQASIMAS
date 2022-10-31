@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TESTINGSURVEYORASM2</name>
+   <tag></tag>
+   <elementGuidId>5ed84277-50be-48c7-9d7b-633dbf61c298</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cellIn > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='$PGetSurveyorPerWilayah$ppxResults$l2']/td/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>707a42e6-57b9-46b5-969f-c3db880d91bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TESTINGSURVEYOR@ASM2</value>
+      <webElementGuid>34842f77-40f1-444e-bc8c-73994e67c45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;$PGetSurveyorPerWilayah$ppxResults$l2&quot;)/td[@class=&quot;autocompleteAGleft gridCell gridCellSelected&quot;]/div[@class=&quot;oflowDiv&quot;]/div[@class=&quot;divCont&quot;]/div[@class=&quot;cellIn&quot;]/span[1]</value>
+      <webElementGuid>ada6fe1c-d638-4349-9aec-abc07e732430</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='$PGetSurveyorPerWilayah$ppxResults$l2']/td/div/div/div/span</value>
+      <webElementGuid>4fe3e6a8-5231-4a36-94a6-205ef861e218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JnsKlaim'])[1]/following::span[2]</value>
+      <webElementGuid>9eebd1bb-fcfc-4c92-9c05-ab533de2888a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit &amp; Cetak Formulir Klaim'])[2]/following::span[4]</value>
+      <webElementGuid>ddeae271-a691-4849-92e6-7b7de4600b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live UI'])[1]/preceding::span[2]</value>
+      <webElementGuid>d0ba51aa-cb8d-46dc-97b7-9621f6ba72e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='YOR@ASM2']/parent::*</value>
+      <webElementGuid>115bfe37-a598-4412-b326-3dc0b0ac7373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/span</value>
+      <webElementGuid>a4e9096c-fadb-468f-9e2d-c2ff89d8f73a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TESTINGSURVEYOR@ASM2' or . = 'TESTINGSURVEYOR@ASM2')]</value>
+      <webElementGuid>483cd09d-21f4-4fd8-9623-be4155edf1da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

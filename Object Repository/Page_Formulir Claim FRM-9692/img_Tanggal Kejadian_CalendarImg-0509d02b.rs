@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Tanggal Lapor_CalendarImg-0079ae87</name>
+   <name>img_Tanggal Kejadian_CalendarImg-0509d02b</name>
    <tag></tag>
-   <elementGuidId>484ef039-7539-4bf5-a73e-908dc41ff4ee</elementGuidId>
+   <elementGuidId>f6230fbb-a0f6-45a0-af10-6e21babd7dc1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>img[name=&quot;CalendarImg-0079ae87&quot;]</value>
+         <value>img[name=&quot;CalendarImg-0509d02b&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//img[@name='CalendarImg-0079ae87']</value>
+         <value>//img[@name='CalendarImg-0509d02b']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>550897bf-27c1-44e9-a190-bc3478915591</webElementGuid>
+      <webElementGuid>f2942d49-2bcf-43ad-9c80-68533bb4ad21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>src</name>
       <type>Main</type>
       <value>webwb/pzspacer_11792674401.gif!!.gif</value>
-      <webElementGuid>19f82825-ab60-468a-ad77-14347427c6d2</webElementGuid>
+      <webElementGuid>25e6e3a7-2e30-4ae9-af85-5620e90eea19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>CalendarImg-0079ae87</value>
-      <webElementGuid>71c72eab-7d74-4aae-8876-9dd43aced19c</webElementGuid>
+      <value>CalendarImg-0509d02b</value>
+      <webElementGuid>3ecd9b52-b2e6-46dd-b648-30fea4036687</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>class</name>
       <type>Main</type>
       <value>inactvIcon icnHvr</value>
-      <webElementGuid>dc0a3774-b5e7-4486-865a-2c6be2e61475</webElementGuid>
+      <webElementGuid>33ad48e3-7cd5-4352-87e6-254ea5cea66c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-test-id</name>
       <type>Main</type>
-      <value>20201216133602054939247-DatePicker</value>
-      <webElementGuid>47e403cd-f5dd-42f5-abde-565e1e5a6026</webElementGuid>
+      <value>20201216133602055043852-DatePicker</value>
+      <webElementGuid>9b5d575e-d01e-4bd9-b034-44e76bdf8d92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-ctl</name>
       <type>Main</type>
       <value>[&quot;DatePicker&quot;]</value>
-      <webElementGuid>d8f95a14-7324-4f72-a8d3-bfa1a9286097</webElementGuid>
+      <webElementGuid>b1c5b6b2-96d0-4c51-8d75-38d109853c54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b1f4fdce-51c3-4023-a3b1-6d8a33eebeb7</webElementGuid>
+      <webElementGuid>ec9276ed-2ab9-48b4-97f6-758c2c809056</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>12dc765c-950e-4283-954c-5f90ba8760f4</webElementGuid>
+      <webElementGuid>8eba9dd7-ca7f-4e8f-809a-bcc06a5ee789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,54 +86,54 @@
       <name>alt</name>
       <type>Main</type>
       <value>Choose from calendar</value>
-      <webElementGuid>188d57d7-99e1-4aa5-a932-483662d5d839</webElementGuid>
+      <webElementGuid>577d8136-615d-439b-92c0-c1419bf9fa61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;$PWorkForm$pTglLaporSpan&quot;)/img[@class=&quot;inactvIcon icnHvr&quot;]</value>
-      <webElementGuid>f0e2f97b-e0c5-430c-958b-1563c1f050b3</webElementGuid>
+      <value>id(&quot;$PWorkForm$pTglKejadianSpan&quot;)/img[@class=&quot;inactvIcon icnHvr&quot;]</value>
+      <webElementGuid>86dfd6c7-ed35-4c6f-b812-67b386b0d78f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//img[@name='CalendarImg-0079ae87']</value>
-      <webElementGuid>0da7309b-4fee-40c5-aa95-078bb96099c7</webElementGuid>
+      <value>//img[@name='CalendarImg-0509d02b']</value>
+      <webElementGuid>3275b339-2302-457f-ac43-b70dbda11fe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='$PWorkForm$pTglLaporSpan']/img</value>
-      <webElementGuid>a2ef7843-3983-414d-bda1-af4aeff6e15c</webElementGuid>
+      <value>//span[@id='$PWorkForm$pTglKejadianSpan']/img</value>
+      <webElementGuid>c6ab7d8c-284d-4a23-b9a2-4010aa22350f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='Choose from calendar']</value>
-      <webElementGuid>0f59db93-ade6-498c-9842-7bfb771fc142</webElementGuid>
+      <value>(//img[@alt='Choose from calendar'])[2]</value>
+      <webElementGuid>3a14f465-d366-4d3a-a27d-10ee88baa2c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//img</value>
-      <webElementGuid>9ff6b43c-500f-49ff-9a38-db3dec6a2f0f</webElementGuid>
+      <value>//div[2]/div/div/div/span/img</value>
+      <webElementGuid>18fa864e-6ad2-4f02-9f35-c525f36d8db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'webwb/pzspacer_11792674401.gif!!.gif' and @name = 'CalendarImg-0079ae87' and @alt = 'Choose from calendar']</value>
-      <webElementGuid>201a45b3-b4fe-4893-a4b3-1ad58f738737</webElementGuid>
+      <value>//img[@src = 'webwb/pzspacer_11792674401.gif!!.gif' and @name = 'CalendarImg-0509d02b' and @alt = 'Choose from calendar']</value>
+      <webElementGuid>ac84df9f-4235-4d2f-b7bc-311edceef25c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

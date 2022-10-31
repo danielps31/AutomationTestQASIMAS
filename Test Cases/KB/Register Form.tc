@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>BUAT FORM</name>
+   <name>Register Form</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>91fa212f-cd17-4f8d-a2b7-08135336182b</testCaseGuid>
+   <testCaseGuid>be3641e4-cb7f-4345-a779-3fc59632934e</testCaseGuid>
 </TestCaseEntity>

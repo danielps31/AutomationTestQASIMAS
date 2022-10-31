@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ambil Data Polis</name>
+   <tag></tag>
+   <elementGuidId>55647ccf-802a-4be0-8f95-d5556f0a68b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;FormClaim_Sec_pyWorkPage_35&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='FormClaim_Sec_pyWorkPage_35']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ba544b1-d307-4b28-b5a7-69e4414c34db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>202012161536360020122757</value>
+      <webElementGuid>17a563f4-e42c-48ec-9a2c-8d92585ef9f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click</name>
+      <type>Main</type>
+      <value>[[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;GetRetrievePolisFromAPI_Act&quot;, &quot;NOPOLISI=#~WorkForm.PolisNoPlat~#&amp;NOMESIN=#~WorkForm.PolisNoMesin~#&amp;NORANGKA=#~WorkForm.PolisNoRangka~#&amp;POLISNO=#~WorkForm.PolisNo~#&amp;TGLLAPOR=#~WorkForm.TglLapor~#&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODE4Y2RhNjVlYmQ2MzJlN2VkN2Y5N2RkNTFhMTFkZmIyZDIzMzhhNDE4ZjVlMzYyZDg1Y2M4MDY1ZDE2YTIzN2NmMTUwNjg0OTBkODBiY2QwZDBlMTg5MzAwNzllZDA3ZTc5NTZjZTViNWNmZDg5ODhhMzIwMzQ5NGVkNmQ2NmNiNg%3D%3D*&quot;,{},{}],&quot;pyWorkPage&quot;]],[&quot;processAction&quot;, [&quot;GetDataPolisService&quot;,&quot;true&quot;,&quot;:event&quot;,&quot;&quot;,&quot;Rule-HTML-Section&quot;,&quot;&quot;,&quot;pzModalTemplate&quot;,&quot;%7B%22mobile%22%3A%7B%22reveal%22%3A%7B%22effect%22%3A%22anim-null%22%7D%2C%22isCustomDismiss%22%3A%22true%22%2C%22dismiss%22%3A%7B%22effect%22%3A%22anim-null%22%7D%7D%7D&quot;,&quot;true&quot;,&quot;ASM-FW-ICMS-Work-FormulirClaim&quot;,&quot;ASM-FW-ICMS-Work-FormulirClaim&quot;,&quot;false&quot;,&quot;false&quot;,&quot;&quot;,&quot;&quot;],[&quot;&amp;&quot;,[&quot;OP&quot;,[&quot;$PWorkForm$pPolisNo&quot;,&quot;!=&quot;,&quot;&quot;,&quot;false&quot;]]]]]</value>
+      <webElementGuid>bf1613be-66f3-47c5-aeb8-7ebc60e89a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>FormClaim_Sec_pyWorkPage_35</value>
+      <webElementGuid>4f1b06bc-eb50-4ad5-8045-d452866f119c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pzhc pzbutton</value>
+      <webElementGuid>b757ffb5-e17c-4a52-a60f-57c332c2eec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2db064f9-dfbf-452e-b4b5-be1bc2c9afde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ambil Data Polis</value>
+      <webElementGuid>054b5b34-d138-496d-ac6c-5e8b3fddbe14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pyFlowActionHTML&quot;)/span[1]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@id=&quot;EXPAND-OUTERFRAME&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[@class=&quot;flex content layout-content-default  content-default set-width-auto&quot;]/div[@class=&quot;content-item content-layout item-4 remove-left-spacing remove-right-spacing align-end flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default  centered&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing remove-bottom-spacing remove-right-spacing flex flex-row centered dataValueWrite&quot;]/span[1]/button[@class=&quot;pzhc pzbutton&quot;]</value>
+      <webElementGuid>ed0875a9-46c6-4926-842f-6e3c6a3a124d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='FormClaim_Sec_pyWorkPage_35']</value>
+      <webElementGuid>c9ee8423-0972-4be4-8536-666c4054e0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EXPAND-OUTERFRAME']/div[2]/div/div[4]/div/div/span/button</value>
+      <webElementGuid>42d97246-b1ca-47bd-ad6b-d485093aa50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Polis'])[2]/following::button[1]</value>
+      <webElementGuid>539ebc37-8321-47e0-b695-5e783f207015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Polis'])[1]/following::button[1]</value>
+      <webElementGuid>2706fccc-fac1-46d9-a36a-22605d4c2dd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jaminan'])[1]/preceding::button[1]</value>
+      <webElementGuid>3a378b26-e1de-4805-9518-2f8aeba058f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Klaim'])[1]/preceding::button[1]</value>
+      <webElementGuid>c24077ca-a10d-45a1-b564-414bb6847536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ambil Data Polis']/parent::*</value>
+      <webElementGuid>e358e7d6-4802-4c05-9cdb-add146cb7213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span/button</value>
+      <webElementGuid>75f9d332-ed3b-4711-a544-d857ff9feba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'FormClaim_Sec_pyWorkPage_35' and @type = 'button' and (text() = 'Ambil Data Polis' or . = 'Ambil Data Polis')]</value>
+      <webElementGuid>3959359c-493e-4c2c-90d8-c62c6c5b051b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

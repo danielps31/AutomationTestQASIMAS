@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Log in</name>
    <tag></tag>
-   <elementGuidId>24150198-aee4-4a22-a5d1-f36512660b6f</elementGuidId>
+   <elementGuidId>949f23a8-0929-4468-a892-2779f1919382</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,11 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-<<<<<<< HEAD
-      <webElementGuid>0cf9712b-8bbd-487b-aa7c-94ba3ef01015</webElementGuid>
-=======
-      <webElementGuid>1e46bd06-2ff0-4bc1-bc5b-c5e4a77ef76f</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>e09af6f3-84c5-4482-ac31-0e912d17c8bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,8 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sub</value>
-<<<<<<< HEAD
-      <webElementGuid>b9b7546a-f9c2-42b6-ac25-0cca25272629</webElementGuid>
+      <webElementGuid>5e22a24c-33ee-4f54-a336-6c0cfaa8920e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loginButton</value>
-      <webElementGuid>f27fff72-6526-4b16-8b29-f990afe44295</webElementGuid>
+      <webElementGuid>e6d908c3-61bd-414a-98c5-4edcf80652bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>4f566b51-a745-4218-bb3d-68809f8c56df</webElementGuid>
+      <webElementGuid>891f69a6-998f-4509-9c3f-a9a03172dadd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -59,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2e20ccc0-701e-49cc-9bf3-910c8ffec374</webElementGuid>
+      <webElementGuid>3106b044-3a28-49a2-9a26-f99c135a2838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -67,59 +62,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>removeErrorMessage();</value>
-      <webElementGuid>bb76b301-26d7-4fff-bb4e-27d8cd948303</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                            Log in
-                                        </value>
-      <webElementGuid>860c5c9c-42cc-4de4-85af-5107b823017f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>94cd5a4c-490a-4680-a299-22cedd2aef08</webElementGuid>
-=======
-      <webElementGuid>b1e6db6c-bb6c-4869-8ca9-fd1d8d766248</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButton</value>
-      <webElementGuid>80c6b408-d8ce-4264-a5d6-e3e302f20cee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>2d0086e8-523c-4ba5-8970-e22011788f53</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>648772e7-2128-46ae-b09a-9aa27604f38b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>removeErrorMessage();</value>
-      <webElementGuid>a4e84d10-47c7-4c3d-8151-2d3b25dc25b9</webElementGuid>
+      <webElementGuid>ac999c19-1fd3-4f0a-947e-a1b214fde288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -129,7 +72,7 @@
       <value>
                                             Log in
                                         </value>
-      <webElementGuid>b8924742-acb4-4fac-a3ef-d687735a88f8</webElementGuid>
+      <webElementGuid>fa22a2cf-283b-4c5e-8ccf-b328aba9ffd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -137,272 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>6eb66912-810e-42fb-b607-ef9dc4fae1dc</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>2445ed4e-49a7-48f5-9a16-8b169ebe4a8b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>sub</value>
-      <webElementGuid>30e4c56b-63e7-43d8-aede-8cb55a175edc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButton</value>
-      <webElementGuid>af946aa7-9b21-4965-8355-96218b90bae0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>8d060a88-8017-4c6d-8df9-8bf8a0850393</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>540856c0-40e8-42be-9f00-cc5e14a3cf3d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>removeErrorMessage();</value>
-      <webElementGuid>cb948bb3-5c24-490f-a7ed-cb77562673d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                            Log in
-                                        </value>
-      <webElementGuid>d703377a-b8b4-41ff-9998-da26e734bb3f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>47f6c4c9-6c2a-4c2d-a2ef-4d6aae3be083</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>0b270fa0-72af-4014-a339-7845716b5224</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>sub</value>
-      <webElementGuid>e5be5ffa-021a-47d7-b2dc-99f1d5b2d48c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButton</value>
-      <webElementGuid>58e904f7-cf9e-4805-9736-fed19ca7dc47</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>f37e3206-98ed-443d-9700-80ea4c42e24a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>f83534ca-c93e-447c-bdf4-11080e27f50e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>removeErrorMessage();</value>
-      <webElementGuid>e6e5d84e-d2e2-4f1a-ac72-bd361b2d4eb7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                            Log in
-                                        </value>
-      <webElementGuid>ae772034-3c6f-4764-9065-aaa85d846ef3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>0ee0344e-be25-48b7-ac54-f4ffdcc82dae</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>9d103753-9ffc-4c93-85b0-5b638036b864</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>sub</value>
-      <webElementGuid>a7f082a4-d683-43ad-8e12-f5887a4081f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButton</value>
-      <webElementGuid>213fdc36-810a-4b47-839a-20b5cf754683</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>a10f19b7-f55d-4d94-b159-b710dfbc91c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>c68b68c4-dd53-47e8-a7ef-6d304e32a0a0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>removeErrorMessage();</value>
-      <webElementGuid>f693719c-9ac5-4e65-a4af-5b05cc84998f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                            Log in
-                                        </value>
-      <webElementGuid>74d78191-dec7-4541-98dd-04e5194dd610</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>e8eccd9e-e402-47a4-a6d6-240f69614983</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>65cc1ad8-f50e-4030-b8c8-24b17e676265</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>sub</value>
-      <webElementGuid>1933d11b-4cb1-4dc5-864f-c67809625537</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>loginButton</value>
-      <webElementGuid>4c600e01-aca4-417e-93b0-3c149d4ae671</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pyActivity=Code-Security.Login</value>
-      <webElementGuid>fb790e64-90bf-401a-9ff9-e07a2ea2683c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>37e8d210-a355-4c3e-8823-f07b56b62ad6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>removeErrorMessage();</value>
-      <webElementGuid>ed4d049a-773a-449b-83f0-bf36f9648778</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>
-                                            Log in
-                                        </value>
-      <webElementGuid>06a66147-3e84-43ae-9d3c-af55e84f5748</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sub&quot;)</value>
-      <webElementGuid>ac5db558-e0dc-4343-bc49-0c2eae6c80b6</webElementGuid>
+      <webElementGuid>b3939866-e885-4961-9c49-67d32c8169e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -410,11 +88,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='sub']</value>
-<<<<<<< HEAD
-      <webElementGuid>4017fdf3-2f1b-470a-b911-0ada520f0c93</webElementGuid>
-=======
-      <webElementGuid>a55c5d8e-4925-4709-bc3f-2f36313092bd</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>04938c64-e149-4e35-9ea7-2f220fbe4d45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -422,11 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='submit_row']/button</value>
-<<<<<<< HEAD
-      <webElementGuid>7e471785-c53f-4bba-98e3-db07fc024ea5</webElementGuid>
-=======
-      <webElementGuid>306965c1-76ae-4274-9f14-c9cdfbf1cc2d</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>fad5c38c-6591-412d-ac63-1472e7939f51</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -434,11 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::button[1]</value>
-<<<<<<< HEAD
-      <webElementGuid>2bb46fcb-0a06-4356-98e0-0c1364de6afe</webElementGuid>
-=======
-      <webElementGuid>6df76e85-7b92-40b2-8d79-d8a9b0ed3a99</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>ff17e1a8-6101-4b45-a1e9-e5ce108291af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -446,11 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[2]/following::button[1]</value>
-<<<<<<< HEAD
-      <webElementGuid>b25338c9-8de0-4d13-8040-37058a8e98ca</webElementGuid>
-=======
-      <webElementGuid>e5518f7f-4e57-45f9-b6da-4fcade42fc80</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>d3cb52c9-5bf0-4026-92ea-4cd0a12a1d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -458,11 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password'])[1]/preceding::button[1]</value>
-<<<<<<< HEAD
-      <webElementGuid>7af56274-bd40-4474-98d6-b2cd75fa2a20</webElementGuid>
-=======
-      <webElementGuid>d3118327-a219-4992-97ce-8fd1b6de1a3e</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>8009ccec-c817-47cf-aa37-fc8147f22e73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -470,11 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-<<<<<<< HEAD
-      <webElementGuid>cf159615-ff3a-44df-9a36-0acaa0507200</webElementGuid>
-=======
-      <webElementGuid>de990c34-142c-4f1d-9dc6-1fdb084bd925</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>898c07be-aa96-46e3-88ca-2939be5ed268</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -486,10 +140,6 @@
                                         ' or . = '
                                             Log in
                                         ')]</value>
-<<<<<<< HEAD
-      <webElementGuid>176741e2-316b-4fc9-b067-e314d74d0b5a</webElementGuid>
-=======
-      <webElementGuid>228d5e62-4d57-4477-88d4-fc0a7768972e</webElementGuid>
->>>>>>> branch 'main' of https://github.com/danielps31/AutomationTestQASIMAS.git
+      <webElementGuid>7c27fd43-58f6-4a1e-b43e-501075429c9f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Formulir Klaim</name>
+   <name>span_TESTING ASM</name>
    <tag></tag>
-   <elementGuidId>1b21968c-3473-4b6b-bbd8-06ce0e2e1c31</elementGuidId>
+   <elementGuidId>1773d44b-f550-4edb-8b66-1331083dd4fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.menu-item-title</value>
+         <value>span.match-highlight</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='menu-1667205657079']/li[2]/a/span[2]/span</value>
+         <value>//tr[@id='$PGetWilayahKlaim$ppxResults$l1']/td/div/div/div/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e580ba5c-a790-45cb-9353-d014f2eba3ae</webElementGuid>
+      <webElementGuid>38588e0d-dfbd-4bc8-b20a-b8a59e7bf6fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>menu-item-title</value>
-      <webElementGuid>b9b5fb53-75fd-4fc9-9195-06ab3015b399</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-click</name>
-      <type>Main</type>
-      <value>..</value>
-      <webElementGuid>92201e0e-51c1-4bad-9069-688107d7632c</webElementGuid>
+      <value>match-highlight</value>
+      <webElementGuid>40970ced-8f8e-4e31-b170-b3f8423b3f2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Formulir Klaim</value>
-      <webElementGuid>c599206c-d338-45ab-bb2f-5cfc2c005cb7</webElementGuid>
+      <value>TESTING ASM</value>
+      <webElementGuid>1f28223a-3d49-492e-843a-df5913a2b4e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-1667205657079&quot;)/li[@class=&quot;menu-item menu-item-enabled menu-item-active&quot;]/a[@class=&quot;menu-item-anchor&quot;]/span[@class=&quot;menu-item-title-wrap&quot;]/span[@class=&quot;menu-item-title&quot;]</value>
-      <webElementGuid>1dba1bce-9048-42e2-a07f-69becc72b914</webElementGuid>
+      <value>id(&quot;$PGetWilayahKlaim$ppxResults$l1&quot;)/td[@class=&quot;autocompleteAGleft gridCell gridCellSelected&quot;]/div[@class=&quot;oflowDiv&quot;]/div[@class=&quot;divCont&quot;]/div[@class=&quot;cellIn&quot;]/span[1]/span[@class=&quot;match-highlight&quot;]</value>
+      <webElementGuid>b87855df-1167-4b36-9a5b-525c47e5d1b6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='menu-1667205657079']/li[2]/a/span[2]/span</value>
-      <webElementGuid>c0a83324-dbcf-4771-b096-fd6ba67397ee</webElementGuid>
+      <value>//tr[@id='$PGetWilayahKlaim$ppxResults$l1']/td/div/div/div/span/span</value>
+      <webElementGuid>f73f7985-0952-4e0c-83a3-d19aefaa9f49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ClaimQ'])[1]/following::span[6]</value>
-      <webElementGuid>b82d8d58-364c-488a-bb09-02037b53654e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IdWilayahKlaim'])[1]/following::span[3]</value>
+      <webElementGuid>772b2d5a-77bd-48b6-8e28-968461de5952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/following::span[9]</value>
-      <webElementGuid>ea8c4825-9cba-4167-897e-2dfa52a5def8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit &amp; Cetak Formulir Klaim'])[2]/following::span[5]</value>
+      <webElementGuid>9b82cf2c-9d58-42e2-a867-e4b4023ee321</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OS Klaim'])[1]/preceding::span[5]</value>
-      <webElementGuid>768926bc-5f10-479b-9db8-eb2a66a82ded</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TESTING ASM'])[2]/preceding::span[2]</value>
+      <webElementGuid>4fe9793f-8e54-4e43-9894-a0cf2fa36d97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Klaim'])[1]/preceding::span[11]</value>
-      <webElementGuid>df0166e1-24d0-4f0f-baec-bbe4d08cbe06</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live UI'])[1]/preceding::span[4]</value>
+      <webElementGuid>27f72b4c-c999-4950-9542-d9613d9975c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Formulir Klaim']/parent::*</value>
-      <webElementGuid>ab814f28-9b37-4a06-8397-a0d1049c60d8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='TESTING ASM']/parent::*</value>
+      <webElementGuid>f19158cb-5437-417f-9f9f-31400df95ad8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/span</value>
-      <webElementGuid>998185be-8534-44e7-8f67-3fefdc86914d</webElementGuid>
+      <value>//td/div/div/div/span/span</value>
+      <webElementGuid>bfbba589-515e-484f-a1ff-d5b4332c49d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Formulir Klaim' or . = 'Formulir Klaim')]</value>
-      <webElementGuid>27829656-5932-4693-a029-9d6ef46094e1</webElementGuid>
+      <value>//span[(text() = 'TESTING ASM' or . = 'TESTING ASM')]</value>
+      <webElementGuid>417bdac8-6161-4f24-8243-08671d180678</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

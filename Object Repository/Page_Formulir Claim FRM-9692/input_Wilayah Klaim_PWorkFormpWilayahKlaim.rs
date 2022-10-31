@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_User name_UserIdentifier</name>
+   <name>input_Wilayah Klaim_PWorkFormpWilayahKlaim</name>
    <tag></tag>
-   <elementGuidId>43876622-aa68-470a-a647-6d0b9678604b</elementGuidId>
+   <elementGuidId>acd65867-ede7-438d-a736-7d597f406262</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txtUserID</value>
+         <value>#4a9d0c45</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txtUserID']</value>
+         <value>//input[@id='4a9d0c45']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7bffb849-8586-4ed7-839f-8f28786552f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>txtUserID</value>
-      <webElementGuid>6b75706d-bbc5-45b8-aff0-0da423c08439</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocorrect</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>0407cf74-069b-44b7-900b-7e437f7826c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocapitalize</name>
-      <type>Main</type>
-      <value>none</value>
-      <webElementGuid>24c99bc0-278d-4ab5-a45c-b6d35e674b6a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>inputBox</value>
-      <webElementGuid>31fa4bc0-1169-46db-accb-9725ea6344e9</webElementGuid>
+      <webElementGuid>6a6777ad-237f-4cec-bccd-0069722cc852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,63 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2a4f39db-0f25-41ea-90d0-3bb5322d7dc2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>UserIdentifier</value>
-      <webElementGuid>4f93281c-36c6-41a0-b139-83a70ac3e0ae</webElementGuid>
+      <webElementGuid>5cf07d0e-8c3d-4715-830f-849e74307161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>autocomplete</name>
       <type>Main</type>
-      <value>20</value>
-      <webElementGuid>aee53575-8e1e-4771-ae70-e9fecb84742a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>128</value>
-      <webElementGuid>4726d367-9422-458d-809f-cfd08591a8cf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>User name</value>
-      <webElementGuid>173eaa12-f7f7-4972-98e0-5ebf4be8370a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;txtUserID&quot;)</value>
-      <webElementGuid>408ba74a-6f28-4128-ae87-9bb4c0debda7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>input</value>
-      <webElementGuid>604eb645-46e2-49fd-bb13-245688879dee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>txtUserID</value>
-      <webElementGuid>ab919778-1cb3-44c9-8adc-02a1db8dd9fd</webElementGuid>
+      <value>off</value>
+      <webElementGuid>4a76c980-481f-4a51-b71c-6e5da85ac5f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,102 +46,166 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>51666832-ade6-4a60-aa68-ba1e1a5b03e7</webElementGuid>
+      <webElementGuid>ded101e4-fe95-41c4-a5d2-a7d7a1f61e59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>autocapitalize</name>
       <type>Main</type>
-      <value>none</value>
-      <webElementGuid>c9bdc65f-860a-4363-808b-5fa116094bd2</webElementGuid>
+      <value>off</value>
+      <webElementGuid>285b035a-f31a-4450-978a-2dad89a3ae62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-change-lazy</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ab36b687-d2c6-4777-9409-c1347d5ad247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-change</name>
+      <type>Main</type>
+      <value>[[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;CetakFormClaim_Sec&quot;, &quot;GetSurveyorPerWilayah_Act&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODE4Y2RhNjVlYmQ2MzJlN2VkN2Y5N2RkNTFhMTFkZmIyZGI1MWU4ODlmOTE3NTQ4ZjhmOTczZTBlYTRmMmY0Njk1OWQzYzUyZTBiOGNhODk1NzZiYWE0ZmZkZjc1NTE2OTQ5YWUxMjdjMjNiOGY0Zjg3YTJhZjEzMmY0ZGQwODNlNQ%3D%3D*&quot;,{},{}],&quot;pyWorkPage&quot;]]]</value>
+      <webElementGuid>5576413f-0174-48d7-a61d-f26c9d75f77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test-id</name>
+      <type>Main</type>
+      <value>20201216132007065823813</value>
+      <webElementGuid>9843d538-9a66-475c-bc8c-23577fa89603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ctl</name>
+      <type>Main</type>
+      <value>[&quot;AutoCompleteAG&quot;]</value>
+      <webElementGuid>0381d6bb-5a8d-424a-a660-faa0f9e80170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>58a3cdf7-91f4-4b04-8e45-862bc342f82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>4a9d0c45</value>
+      <webElementGuid>d536fd2e-66a6-4cea-85b4-c5edc2925310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inputBox</value>
-      <webElementGuid>35cb4536-ef21-4811-ae2a-a148cbac1cf9</webElementGuid>
+      <value>autocomplete_input ac_</value>
+      <webElementGuid>12d6dd86-1708-4d84-aec6-8fc9f94daae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>data-displayfullscreen</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>f65e617c-b7fd-4828-b8fb-3df0d2afd672</webElementGuid>
+      <value>true</value>
+      <webElementGuid>5a0659ac-6955-41fc-a169-649b7e79eb1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-attributes</name>
+      <type>Main</type>
+      <value>[&quot;EXPANDEDSubSectionFormClaim_Sec83WorkForm_WilayahKlaim&quot;,0,170,{},&quot;pyWorkPage&quot;,0,false]</value>
+      <webElementGuid>91e8431a-fe40-4892-8863-95dd9bb8f25f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>UserIdentifier</value>
-      <webElementGuid>865ca468-ef66-4bb0-9157-8f61984d086a</webElementGuid>
+      <value>$PWorkForm$pWilayahKlaim</value>
+      <webElementGuid>2805f9ca-f8e3-49d6-89c9-b5280c914837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>aria-describedby</name>
       <type>Main</type>
-      <value>20</value>
-      <webElementGuid>1b7f9029-4776-4a4d-9338-54b0bac02913</webElementGuid>
+      <value>$PWorkForm$pWilayahKlaimError</value>
+      <webElementGuid>02fedba1-7ad0-407c-a73a-58bb44581996</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>validationtype</name>
       <type>Main</type>
-      <value>128</value>
-      <webElementGuid>d692afc4-ee69-4bf6-bece-0714d32a0c57</webElementGuid>
+      <value>required</value>
+      <webElementGuid>59b61774-0535-46c7-bbfa-0df854bdde27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>data-skip-ac</name>
       <type>Main</type>
-      <value>User name</value>
-      <webElementGuid>1302d706-09dd-451d-b6ac-c8a87d001e58</webElementGuid>
+      <value>yes</value>
+      <webElementGuid>c108870e-851c-496d-81fc-4334e6fc5edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-changed</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5d1648d3-da0f-421c-916b-4ad75fd9a7db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txtUserID&quot;)</value>
-      <webElementGuid>e7ff64fc-6485-4b71-a023-6f1534da6bfe</webElementGuid>
+      <value>id(&quot;4a9d0c45&quot;)</value>
+      <webElementGuid>e679f684-f2ab-4950-9b97-ddd55f239eaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txtUserID']</value>
-      <webElementGuid>cca81114-87a1-43e9-b059-f3980dbdff03</webElementGuid>
+      <value>//input[@id='4a9d0c45']</value>
+      <webElementGuid>bbfb1a78-5b5e-4f9b-9396-f4ae3bff2750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='credentialsForm']/div/input</value>
-      <webElementGuid>4b0d74b6-35d3-4d66-a65d-3702948d9f74</webElementGuid>
+      <value>//div[@id='EXPAND-OUTERFRAME']/div[2]/div/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>e4167648-a51f-4442-abf9-a56abf964083</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>8bb7b5d6-79a0-4490-8b17-d22a8dd46233</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>5739e78c-a1f0-4017-8896-1f967f08d6ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'txtUserID' and @type = 'text' and @name = 'UserIdentifier' and @placeholder = 'User name']</value>
-      <webElementGuid>95ca6aa9-5fb9-4052-a073-59e0bab7868e</webElementGuid>
+      <value>//input[@type = 'text' and @id = '4a9d0c45' and @name = '$PWorkForm$pWilayahKlaim']</value>
+      <webElementGuid>0c30bbae-fe04-4640-b0a6-d26b7b14001b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Formulir Klaim</name>
    <tag></tag>
-   <elementGuidId>e5ebe4b8-9b30-457f-a29e-92ceed372735</elementGuidId>
+   <elementGuidId>03ef8a79-32d9-436f-a5dd-7a664fdb17b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>49a7d834-96ba-401d-8a3d-d14a34f26b51</webElementGuid>
+      <webElementGuid>b9d814bc-bff6-46ec-af60-9c4ce2724999</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>data-test-id</name>
       <type>Main</type>
       <value>20201222143831032389821</value>
-      <webElementGuid>59fb0482-1424-475a-9cf1-90e9f29aede6</webElementGuid>
+      <webElementGuid>277097e1-da17-4c14-9a67-b7ca165ddc81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-click</name>
       <type>Main</type>
-      <value>[[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;pyDisplayHarness&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9NzkyYWJiZDU1OWY1Y2ZkODMzNTIwZGJjOTg2MTY2NmVlMjBkNjJmNjA1NTBjMDY2ODhmYzM5NjRjNjQ1NzI2YzIyNGQ3ZWFhMmJmZmUzNjEwY2ZiMDk2MGIzMWQ5NmZhNWMwYWVhOGEzYmI1MzdjM2E1OTcxODc1YjQzOTdlZTA3ZmQwM2QzMGRiNzIzMGI1YzVmYjdlNzQ3Njc4ZWRhMzhlNGYxNjRjMDUwMTI2MTIyNjEzOWIyZmE0YWVmOGNjMTkxODkwMDZiYWE0ZDFhMjZmOWQ1OTViNTZiZDhkMjI1NTkxYjE1ZTNmZjQ5MmJiNmI0ZGVkZjM1ZWEyYzc5Ng%3D%3D*&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9OWYxNDRkN2MzNzczNjdhZjNiNWFhNTI5NDczMTBiZTQ2YzgyZTdhYTIwMzgwMWEzZjE0NTU1YzcyNGUzY2I1NzgzOGE1MGYzOWY3ODljOThmYzhiYzg5MTgwMWRkODkwMGRmMWIyOTZmOGRiZWM4YjFiY2IzZDdjMzk5OGZiYjAxMDQyYjliMjhlNjgxOTI4MTIyMTg3MWQ4MTQ1YzZhZDQzZTUzOTA0MGFhODljODg0NzE2ZDgyMjY3N2JiYjIz*&quot;,{},{}],&quot;pyDisplayHarness&quot;]],[&quot;setMobileTransition&quot;,[&quot;pega.mobile.transitions.NONE&quot;]],[&quot;openAssignment&quot;,[&quot;#~pyDisplayHarness.IDPEGA~#&quot;,&quot;f902556a-7bb3-4699-82dd-46f26a07daf0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;#~pyDisplayHarness.pyIsOfflineEnabled~#&quot;,{&quot;target&quot;:&quot;primary&quot;,&quot;pyReloadAlways&quot;:&quot;false&quot;}]]]</value>
-      <webElementGuid>721cb885-54d5-476d-ac54-b79c4f68fd3d</webElementGuid>
+      <value>[[&quot;runActivity&quot;, [&quot;&quot;, &quot;&quot;, &quot;pyDisplayHarness&quot;, &quot;:event&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9YjFkMTFkNzdhNDg0NDY4YTdiMTJiMTQxMzM3YTZkNGY0YTUyM2VkODU4NDA4ZjA0MTMzODllMGI5ZmE0NmQyNGY5NGIwNzBiOWU1ZmVhODQyOGMxMjgzODczODY5NjRmNGVjNTNlODhmN2YzYjIwYTBmYjk2NDZjMzFmMmQwOTFmMTk2YjI1MmQzYmFjOTU3Y2Y1M2JiZGFhOGZmZDhiM2Q5YjkzMTIxZjE5YTBiMjNkMDZhYWE0NWZiODUzNjVmODQxYmI3YTJjZTFhM2MzYjk0OTIzYWQwNWVkZWEzMTUyN2M3YjZjZmQxMDA3Y2Y3NjAzMWZjYzEyNThlNjBiNQ%3D%3D*&quot;]],[&quot;refresh&quot;, [&quot;thisSection&quot;,&quot;&quot;, &quot;&quot;, &quot;=&quot;, &quot;&quot;, &quot;,&quot;,&quot;:event&quot;,&quot;&quot;,[&quot;pzuiactionzzz=CXt0cn17U1RBTkRBUkR9ZThkZDhjYmE2YjBlMGUxODE1NDg3ZGZhYmRiNDIzMWQ1ZDE1YWZhYjc0NjVhMDU5NjBjNDQwNGQ4ZDNlMmFkY2VjNmM3NTQwNWM4OWYxYmQ3MzJiNGQ0NTY0MjE2MWVkMDJhMWNlZGEzMDQ0ZmY3ZWM1ZTlkNWJkZDA5OGY1ODFiNjFiZjI1MmU3MWYwYTI3ZTM2ZTg0YzczYjkyMjA0MjE1M2Y5NTQ4MTU4NTM1MzY0ZTI3YTRiMTMxNDBkZTA2*&quot;,{},{}],&quot;pyDisplayHarness&quot;]],[&quot;setMobileTransition&quot;,[&quot;pega.mobile.transitions.NONE&quot;]],[&quot;openAssignment&quot;,[&quot;#~pyDisplayHarness.IDPEGA~#&quot;,&quot;f902556a-7bb3-4699-82dd-46f26a07daf0&quot;,&quot;&quot;,&quot;&quot;,&quot;&quot;,&quot;#~pyDisplayHarness.pyIsOfflineEnabled~#&quot;,{&quot;target&quot;:&quot;primary&quot;,&quot;pyReloadAlways&quot;:&quot;false&quot;}]]]</value>
+      <webElementGuid>02ced270-e8cb-4bfe-b48a-d153f836d6b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ShowFormClaimData_pyDisplayHarness_126</value>
-      <webElementGuid>f5e048ad-f971-447d-9395-68fffd18b741</webElementGuid>
+      <webElementGuid>9280c034-9f80-4ac7-97ce-6d20e7ecf3ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>Strong pzhc pzbutton</value>
-      <webElementGuid>4cb654ac-ec64-4b30-9f4c-422db44ee5d8</webElementGuid>
+      <webElementGuid>6b739f46-10f8-41fe-a5f7-88e6ebc31414</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a40aacbe-0638-4d59-a1e1-3dda023f9ef1</webElementGuid>
+      <webElementGuid>9234420c-a6f6-4504-91c1-de732eae7812</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,15 +70,15 @@
       <name>text</name>
       <type>Main</type>
       <value>+ Formulir Klaim</value>
-      <webElementGuid>86823b21-0306-4588-b756-4b4aa00f1d47</webElementGuid>
+      <webElementGuid>1f6d1fab-1d85-46dd-8a6b-eef9a0f3ae16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;l2&quot;)/div[@class=&quot;screen-layout-region-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default margin-b-1x&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-top-spacing remove-left-spacing remove-bottom-spacing remove-right-spacing flex flex-row&quot;]/div[1]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing flex flex-row dataValueWrite&quot;]/span[1]/button[@class=&quot;Strong pzhc pzbutton&quot;]</value>
-      <webElementGuid>bc171264-44a7-42d0-8cd6-4be355a3eab3</webElementGuid>
+      <value>id(&quot;l2&quot;)/div[@class=&quot;screen-layout-region-content&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[@class=&quot;layout layout-noheader layout-noheader-default margin-b-1x&quot;]/div[@class=&quot;layout-body clearfix&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-2 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-default  content-default&quot;]/div[@class=&quot;content-item content-sub_section item-1 remove-top-spacing remove-left-spacing remove-bottom-spacing remove-right-spacing flex flex-row&quot;]/div[@id=&quot;RULE_KEY&quot;]/span[@class=&quot;inspector-span&quot;]/div[@id=&quot;RULE_KEY&quot;]/div[1]/div[@class=&quot;flex content layout-content-stacked  content-stacked  content-items-maxwidth&quot;]/div[@class=&quot;content-item content-layout item-1 remove-left-spacing remove-right-spacing flex flex-row&quot;]/div[@class=&quot;flex content layout-content-inline  content-inline&quot;]/div[@class=&quot;content-item content-field item-1 remove-top-spacing remove-left-spacing flex flex-row dataValueWrite&quot;]/span[1]/button[@class=&quot;Strong pzhc pzbutton&quot;]</value>
+      <webElementGuid>0e0580fa-b27b-42d7-9880-a3e9430a8391</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='ShowFormClaimData_pyDisplayHarness_126']</value>
-      <webElementGuid>aded9c64-c33a-44ac-8459-fc6ccb328390</webElementGuid>
+      <webElementGuid>c6ae8901-1da8-418f-81e2-85418fc3117b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,39 +94,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>(//div[@id='RULE_KEY']/div/div/div/div/div/span/button)[2]</value>
-      <webElementGuid>85f29eed-5711-4998-ad0a-edc1ba0d8115</webElementGuid>
+      <webElementGuid>642807f3-1959-4f9c-a55c-cccf93d8a2bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[1]/following::button[1]</value>
-      <webElementGuid>ccedaea6-0a41-4662-8382-e3518948538d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah'])[2]/following::button[1]</value>
+      <webElementGuid>abb430b1-fd0a-431c-8c7b-e17f467cf7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/following::button[1]</value>
-      <webElementGuid>fa10fb47-eb72-4658-a952-7bf5bae4334f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[2]/following::button[1]</value>
+      <webElementGuid>a9afea4e-c5de-4a47-9939-0f9851ee4059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Data'])[1]/preceding::button[1]</value>
-      <webElementGuid>30215211-82de-4b28-84c2-7350c7301171</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Data'])[4]/preceding::button[1]</value>
+      <webElementGuid>c262c33f-9a9e-42e9-82ea-83df15010c50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::button[2]</value>
-      <webElementGuid>cb3a585c-f108-4d0c-81e1-38ef84bb4f56</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[3]/preceding::button[2]</value>
+      <webElementGuid>3e043af9-11ff-4546-8d78-0f9aed3ea457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='+ Formulir Klaim']/parent::*</value>
-      <webElementGuid>bcd813a2-c20a-4811-b372-3d236b62a7b6</webElementGuid>
+      <webElementGuid>09dbf086-f67a-4fe8-8f8d-1b3e36c325aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/span/div/div/div/div/div/div/span/button</value>
-      <webElementGuid>2a76ab6d-bc57-4c3a-aeee-94f206b02fa5</webElementGuid>
+      <webElementGuid>a1f1e646-acd3-4090-8d76-f757b7375bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@name = 'ShowFormClaimData_pyDisplayHarness_126' and @type = 'button' and (text() = '+ Formulir Klaim' or . = '+ Formulir Klaim')]</value>
-      <webElementGuid>4dc5437b-0215-474f-9e12-371e30d827a9</webElementGuid>
+      <webElementGuid>ba47bb33-3243-485d-88e7-b6d288d47941</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
